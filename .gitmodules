@@ -1,0 +1,12 @@
+[submodule "resources/nubula"]
+	path = resources/nubula
+	url = https://github.com/vesoft-inc/nebula.git
+[submodule "resources/dgraph"]
+	path = resources/dgraph
+	url = https://github.com/dgraph-io/dgraph.git
+[submodule "resources/hugegraph"]
+	path = resources/hugegraph
+	url = https://github.com/hugegraph/hugegraph.git
+[submodule "resources/cayley"]
+	path = resources/cayley
+	url = https://github.com/cayleygraph/cayley.git
