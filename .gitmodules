@@ -10,3 +10,6 @@
 [submodule "resources/cayley"]
 	path = resources/cayley
 	url = https://github.com/cayleygraph/cayley.git
+[submodule "resources/janusgraph"]
+	path = resources/janusgraph
+	url = https://gitee.com/aimo-data/janusgraph.git
